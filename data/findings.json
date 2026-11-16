@@ -1,0 +1,1040 @@
+{
+  "findings": [
+    {
+      "id": "caribbean",
+      "number": "01",
+      "title": "Caribbean cruise network",
+      "short": "Shipments, funding, and repeated cruise travel",
+      "status": "Leading hypothesis",
+      "color": "blue",
+      "summary": "A financing and shipment network converges in the Bahamas while six funded travelers repeat cruises to three U.S. ports. A coordinated biological attack is a serious hypothesis; neither agent identity nor an attack date is confirmed.",
+      "plan": "Possible distribution of harmful biological material through a Bahamas-based network and cruise travel. Reports describe coded packages; their contents and intended deployment are unverified.",
+      "when": "Documented return window: December 17–19, 2004. The ships are scheduled to reach New York City, Baltimore, and Miami on December 19. These are travel dates, not confirmed attack dates.",
+      "where": "Nassau and Freeport, Bahamas; possible onward destinations New York City, Baltimore, and Miami.",
+      "uncertainty": "“L-one” and “N-one” are not conclusively decoded. CIA_31 describes Bugarov’s past biological work, not the contents of these shipments. Ship names identify travel rather than a proven attack target. The Chitral caller’s identity remains inferential.",
+      "reportIds": [
+        "CIA_6",
+        "CIA_8",
+        "CIA_11",
+        "CIA_15",
+        "CIA_17",
+        "CIA_20",
+        "CIA_21",
+        "CIA_22",
+        "CIA_24",
+        "CIA_25",
+        "CIA_26",
+        "CIA_27",
+        "CIA_28",
+        "CIA_30",
+        "CIA_31",
+        "CIA_23",
+        "CIA_32",
+        "CIA_34",
+        "CIA_36",
+        "CIA_37",
+        "CIA_38",
+        "CIA_39",
+        "CIA_40",
+        "CIA_41",
+        "CIA_42",
+        "CIA_43",
+        "DIA_2",
+        "NSA_5",
+        "NSA_6",
+        "NSA_7",
+        "NSA_8",
+        "NSA_9",
+        "NSA_11",
+        "NSA_14",
+        "NSA_15",
+        "NSA_16",
+        "NSA_18",
+        "NSA_20",
+        "NSA_22",
+        "FBI_2",
+        "FBI_8",
+        "FBI_10",
+        "FBI_11",
+        "FBI_14",
+        "FBI_15",
+        "FBI_16",
+        "FBI_17",
+        "FBI_21",
+        "FBI_24",
+        "FBI_27",
+        "FBI_28",
+        "FBI_30",
+        "FBI_35",
+        "FBI_40",
+        "FBI_41",
+        "USCBP_2"
+      ],
+      "claims": [
+        {
+          "text": "Hijazi wired $48,000 to the scholarship fund; its director identifies six $8,000 recipients paid on September 17, 2004.",
+          "reportIds": [
+            "FBI_30",
+            "FBI_35"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "The same six recipients made repeated November and December cruise bookings. Three ships are scheduled to return to U.S. ports on December 19.",
+          "reportIds": [
+            "FBI_35",
+            "FBI_40",
+            "FBI_41"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "Intercepts route “medical supplies” and “antibiotics” through Morales and Sufaat. Hanif later carries a Russian-labeled package to Odeh.",
+          "reportIds": [
+            "NSA_16",
+            "NSA_18",
+            "NSA_20",
+            "CIA_38",
+            "CIA_42"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "Hasham may coordinate the Chitral side: his planning role, known alias Yasir Salman, location, and meeting links connect the reports. The caller is not directly identified.",
+          "reportIds": [
+            "CIA_6",
+            "CIA_11",
+            "CIA_22",
+            "CIA_24",
+            "DIA_2",
+            "NSA_5",
+            "NSA_8"
+          ],
+          "status": "Inference"
+        },
+        {
+          "text": "A combined biological logistics and cruise operation is plausible, but shipment contents, attack method, and exact intended timing remain unresolved.",
+          "reportIds": [
+            "CIA_31",
+            "CIA_39",
+            "CIA_42",
+            "CIA_43",
+            "NSA_22",
+            "FBI_40",
+            "FBI_41"
+          ],
+          "status": "Inference"
+        }
+      ],
+      "people": [
+        {
+          "name": "Omar Hanif",
+          "role": "Bahamas contact; package handoff and cruise visitors",
+          "reportIds": [
+            "CIA_24",
+            "CIA_42",
+            "CIA_43",
+            "NSA_6"
+          ]
+        },
+        {
+          "name": "Muslih Odeh",
+          "role": "Freeport hotel employee; receives package from Hanif",
+          "reportIds": [
+            "CIA_32",
+            "CIA_42",
+            "NSA_6"
+          ]
+        },
+        {
+          "name": "Ali Sufaat",
+          "role": "Transport link between Santo Domingo and Nassau",
+          "reportIds": [
+            "CIA_27",
+            "CIA_38",
+            "NSA_16"
+          ]
+        },
+        {
+          "name": "Adnan Hijazi",
+          "role": "Documented funding link to six cruise travelers",
+          "reportIds": [
+            "FBI_30",
+            "FBI_35",
+            "USCBP_2"
+          ]
+        },
+        {
+          "name": "Saeed Hasham",
+          "role": "Possible coordinating figure; Chitral identity is inferential",
+          "reportIds": [
+            "CIA_6",
+            "CIA_22",
+            "CIA_24",
+            "DIA_2"
+          ]
+        },
+        {
+          "name": "Pyotr Safrygin",
+          "role": "Procurement and shipment link; coded sale",
+          "reportIds": [
+            "CIA_34",
+            "CIA_41",
+            "NSA_22"
+          ]
+        },
+        {
+          "name": "Boris Bugarov",
+          "role": "Former biological researcher; coded sale and shipping link",
+          "reportIds": [
+            "CIA_17",
+            "CIA_31",
+            "NSA_11",
+            "NSA_22"
+          ]
+        },
+        {
+          "name": "Jose Escalante",
+          "role": "Shipment arrangements through Cuba",
+          "reportIds": [
+            "CIA_25",
+            "NSA_11",
+            "NSA_16"
+          ]
+        },
+        {
+          "name": "Carlos Morales",
+          "role": "Santo Domingo receiving contact; true identity unresolved",
+          "reportIds": [
+            "CIA_23",
+            "CIA_30",
+            "CIA_40",
+            "NSA_16"
+          ]
+        },
+        {
+          "name": "Wali Shakur",
+          "role": "New York cruise booking pair with Hamza al Midhar",
+          "reportIds": [
+            "FBI_35",
+            "FBI_41"
+          ]
+        },
+        {
+          "name": "Hamza al Midhar",
+          "role": "New York cruise booking pair with Wali Shakur",
+          "reportIds": [
+            "FBI_35",
+            "FBI_41"
+          ]
+        },
+        {
+          "name": "Mounir Mzoudi",
+          "role": "Baltimore cruise booking pair with Mamoun Zammar",
+          "reportIds": [
+            "FBI_35",
+            "FBI_41"
+          ]
+        },
+        {
+          "name": "Mamoun Zammar",
+          "role": "Baltimore cruise booking pair with Mounir Mzoudi",
+          "reportIds": [
+            "FBI_35",
+            "FBI_41"
+          ]
+        },
+        {
+          "name": "Said Khadr",
+          "role": "Miami cruise booking pair with Muhammed Dandani",
+          "reportIds": [
+            "FBI_35",
+            "FBI_40"
+          ]
+        },
+        {
+          "name": "Muhammed Dandani",
+          "role": "Miami cruise booking pair with Said Khadr",
+          "reportIds": [
+            "FBI_17",
+            "FBI_35",
+            "FBI_40"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "start": "2004-09-14",
+          "end": "2004-09-14",
+          "title": "$48,000 sent to scholarship fund",
+          "place": "Reston, Virginia",
+          "reportIds": [
+            "FBI_30",
+            "FBI_35"
+          ],
+          "kind": "Funding"
+        },
+        {
+          "start": "2004-09-17",
+          "end": "2004-09-17",
+          "title": "Six recipients each receive $8,000",
+          "place": "United States",
+          "reportIds": [
+            "FBI_35"
+          ],
+          "kind": "Funding"
+        },
+        {
+          "start": "2004-10-05",
+          "end": "2004-10-05",
+          "title": "Package labeled “Antibiotics” delivered to shipping office",
+          "place": "Casablanca, Morocco",
+          "reportIds": [
+            "CIA_39"
+          ],
+          "kind": "Shipment"
+        },
+        {
+          "start": "2004-11-21",
+          "end": "2004-11-21",
+          "title": "Deadline for packages to reach Morales",
+          "place": "Santo Domingo",
+          "reportIds": [
+            "NSA_16",
+            "NSA_18"
+          ],
+          "kind": "Stated deadline"
+        },
+        {
+          "start": "2004-11-21",
+          "end": "2004-11-21",
+          "title": "Six first-visit guests and both packages reported received",
+          "place": "Nassau per receiving phone; opening conflicts",
+          "reportIds": [
+            "NSA_20"
+          ],
+          "kind": "Intercept claim"
+        },
+        {
+          "start": "2004-12-01",
+          "end": "2004-12-01",
+          "title": "Hanif hands Russian-labeled package to Odeh",
+          "place": "Freeport, Bahamas",
+          "reportIds": [
+            "CIA_42"
+          ],
+          "kind": "Reported event"
+        },
+        {
+          "start": "2004-12-15",
+          "end": "2004-12-15",
+          "title": "Hanif meets two Viking Holiday passengers",
+          "place": "Nassau, Bahamas",
+          "reportIds": [
+            "CIA_43"
+          ],
+          "kind": "Reported event"
+        },
+        {
+          "start": "2004-12-17",
+          "end": "2004-12-19",
+          "title": "Caribbean Queen departs Freeport; return due Dec 19",
+          "place": "Freeport → Baltimore",
+          "reportIds": [
+            "FBI_41"
+          ],
+          "kind": "Scheduled travel"
+        },
+        {
+          "start": "2004-12-18",
+          "end": "2004-12-19",
+          "title": "Viking Holiday departs Nassau; return due Dec 19",
+          "place": "Nassau → New York City",
+          "reportIds": [
+            "FBI_41"
+          ],
+          "kind": "Scheduled travel"
+        },
+        {
+          "start": "2004-12-13",
+          "end": "2004-12-19",
+          "title": "Majestic Clipper second cruise; return due Dec 19",
+          "place": "Miami ↔ Nassau",
+          "reportIds": [
+            "FBI_40"
+          ],
+          "kind": "Scheduled travel"
+        }
+      ],
+      "routes": [
+        {
+          "from": "Moscow",
+          "to": "Casablanca",
+          "label": "Coded package",
+          "reportIds": [
+            "CIA_34",
+            "CIA_39"
+          ]
+        },
+        {
+          "from": "Casablanca",
+          "to": "Santo Domingo",
+          "label": "Dutch Courage shipment",
+          "reportIds": [
+            "CIA_28",
+            "CIA_39"
+          ]
+        },
+        {
+          "from": "Havana",
+          "to": "Santo Domingo",
+          "label": "Medical supplies instruction",
+          "reportIds": [
+            "NSA_11",
+            "NSA_16"
+          ]
+        },
+        {
+          "from": "Santo Domingo",
+          "to": "Nassau",
+          "label": "Sufaat transport link (inferred)",
+          "reportIds": [
+            "CIA_38",
+            "NSA_16"
+          ]
+        },
+        {
+          "from": "Nassau",
+          "to": "Freeport",
+          "label": "Observed package handoff",
+          "reportIds": [
+            "CIA_42"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "utilities",
+      "number": "02",
+      "title": "Utility control systems",
+      "short": "Insider access and electromagnetic devices",
+      "status": "Evidence of capability",
+      "color": "purple",
+      "summary": "A utility employee’s control-system access overlaps a network linked to electromagnetic-device materials. October searches produce supporting physical evidence; the intended execution date is unknown.",
+      "plan": "Possible disruption of electricity or natural-gas control systems using insider knowledge and electromagnetic devices.",
+      "when": "No explicit attack schedule. Contact and preparation evidence runs through October 2004; Derwish and the utility employee are in custody by the final updates.",
+      "where": "Detroit and Windsor are the strongest documented operational locations. Los Angeles contacts appear in separate SCADA-related material.",
+      "uncertainty": "Two Detroit residents share the name Abdul al Nami. The evidence concerning utility access identifies 562 Fenkell Ave.; it must not be assigned to the teacher. Co-mentions and shared mosque attendance alone do not prove participation.",
+      "reportIds": [
+        "DIA_3",
+        "NSA_4",
+        "CIA_2",
+        "CIA_16",
+        "FBI_3",
+        "FBI_5",
+        "FBI_18",
+        "FBI_20",
+        "FBI_22",
+        "FBI_23",
+        "FBI_29",
+        "FBI_31",
+        "FBI_34",
+        "FBI_36"
+      ],
+      "claims": [
+        {
+          "text": "Jehani’s laptop associates SCADA material with Somad and Bafaba, and e-bomb material with Derwish and Abdul al Nami.",
+          "reportIds": [
+            "DIA_3"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "The Fenkell Avenue resident works on Detroit Utilities control systems and accesses them from home.",
+          "reportIds": [
+            "FBI_18",
+            "FBI_20",
+            "FBI_36"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "Searches uncover electromagnetic-device components at Derwish’s home and a Black Ice vulnerability document and related items at al Nami’s residence.",
+          "reportIds": [
+            "FBI_34",
+            "FBI_36"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "The evidence supports concern about a utility-disruption operation; no exact target facility or execution date is specified.",
+          "reportIds": [
+            "DIA_3",
+            "FBI_23",
+            "FBI_34",
+            "FBI_36"
+          ],
+          "status": "Inference"
+        }
+      ],
+      "people": [
+        {
+          "name": "Abdul al Nami",
+          "role": "Utility employee at 562 Fenkell; same-name teacher is distinct",
+          "reportIds": [
+            "FBI_18",
+            "FBI_20",
+            "FBI_36"
+          ]
+        },
+        {
+          "name": "Satam Derwish",
+          "role": "Windsor contact; device components found in residence",
+          "reportIds": [
+            "CIA_16",
+            "FBI_34"
+          ]
+        },
+        {
+          "name": "Khaled Jehani",
+          "role": "Laptop containing control-system and device material",
+          "reportIds": [
+            "DIA_3"
+          ]
+        },
+        {
+          "name": "Rifai Qasim",
+          "role": "Possible Detroit associate reached by monitored phone",
+          "reportIds": [
+            "FBI_5",
+            "FBI_23"
+          ]
+        },
+        {
+          "name": "Raeed Beandali",
+          "role": "Possible Detroit associate; Ralph Bean alias reported",
+          "reportIds": [
+            "CIA_2",
+            "FBI_22"
+          ]
+        },
+        {
+          "name": "Abu Somad",
+          "role": "Los Angeles contact named with SCADA files",
+          "reportIds": [
+            "DIA_3",
+            "FBI_3"
+          ]
+        },
+        {
+          "name": "Yazid Bafaba",
+          "role": "Los Angeles contact named with SCADA files",
+          "reportIds": [
+            "DIA_3",
+            "FBI_3"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "start": "2003-08-01",
+          "end": "2003-08-01",
+          "title": "Email states material should reach “Abdul” before this date",
+          "place": "Windsor / recipient identity uncertain",
+          "reportIds": [
+            "NSA_4"
+          ],
+          "kind": "Stated deadline"
+        },
+        {
+          "start": "2004-05-15",
+          "end": "2004-05-15",
+          "title": "Monitored call discusses waiting for a suitable “field”",
+          "place": "Detroit",
+          "reportIds": [
+            "FBI_23"
+          ],
+          "kind": "Intercept claim"
+        },
+        {
+          "start": "2004-10-25",
+          "end": "2004-10-25",
+          "title": "Derwish interview and subsequent search",
+          "place": "Windsor, Ontario",
+          "reportIds": [
+            "FBI_34"
+          ],
+          "kind": "Reported event"
+        },
+        {
+          "start": "2004-10-27",
+          "end": "2004-10-27",
+          "title": "Utility employee interview and subsequent search",
+          "place": "Detroit, Michigan",
+          "reportIds": [
+            "FBI_36"
+          ],
+          "kind": "Reported event"
+        }
+      ],
+      "routes": [
+        {
+          "from": "Marrakech",
+          "to": "Windsor",
+          "label": "Email instructions",
+          "reportIds": [
+            "NSA_4"
+          ]
+        },
+        {
+          "from": "Windsor",
+          "to": "Detroit",
+          "label": "Documented association",
+          "reportIds": [
+            "FBI_34",
+            "FBI_36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "explosives",
+      "number": "03",
+      "title": "Explosives and militia links",
+      "short": "Shared addresses, materials, and possible targets",
+      "status": "Preparation evidence",
+      "color": "amber",
+      "summary": "Shared addresses, explosives seizures, surveillance, and militia contacts connect several city-level leads. A postponement is explicitly reported; later storage-unit activity raises concern without establishing a new schedule.",
+      "plan": "Possible attacks against buildings and public sites. Drawings and maps suggest candidate targets, with stronger evidence of possession and preparation than of a finalized attack plan.",
+      "when": "An August 7, 2004 report says actions were put on hold for at least several months. A storage unit is reportedly emptied October 16, 2004. No confirmed attack date.",
+      "where": "Chicago: O’Hare Airport and Sears Tower. Houston: Ship Channel, Reliant Stadium, and Galleria. Kansas City: Argosy Riverside, Isle of Capri, and Harrah’s casinos.",
+      "uncertainty": "Maps and drawings indicate interest, not proven target selection. The reported “Hafs or Halfs” at a militia meeting may be Abu Hafs, but that identification is uncertain. Arrests disrupt some participants.",
+      "reportIds": [
+        "CIA_7",
+        "CIA_10",
+        "NSA_1",
+        "NSA_2",
+        "FBI_1",
+        "FBI_4",
+        "FBI_6",
+        "FBI_9",
+        "FBI_12",
+        "FBI_13",
+        "FBI_19",
+        "FBI_25",
+        "FBI_32",
+        "FBI_33"
+      ],
+      "claims": [
+        {
+          "text": "Zinedine is described as an explosives expert using Abu Hafs and Mehdi Rafiki. Chicago rental records link those names to 2211 Cermak Road.",
+          "reportIds": [
+            "CIA_7",
+            "FBI_1",
+            "FBI_4"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "Explosives and maps of O’Hare and the Sears Tower are seized at Cermak Road; Murad is detained.",
+          "reportIds": [
+            "FBI_6"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "Shamrani is reported to possess diagrams of Houston sites and to discuss “big events” in Houston, Chicago, and elsewhere.",
+          "reportIds": [
+            "FBI_9"
+          ],
+          "status": "Informant report"
+        },
+        {
+          "text": "Al Quso and Smith are detained at a Kansas City residence with explosives and drawings of three casinos.",
+          "reportIds": [
+            "FBI_12"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "A later informant reports postponement; subsequent storage-unit traces suggest moved materials, with no specified new attack date.",
+          "reportIds": [
+            "FBI_25",
+            "FBI_32",
+            "FBI_33"
+          ],
+          "status": "Inference"
+        }
+      ],
+      "people": [
+        {
+          "name": "Abdillah Zinedine",
+          "role": "Explosives expert; Abu Hafs / Mehdi Rafiki",
+          "reportIds": [
+            "CIA_7",
+            "FBI_1",
+            "FBI_4"
+          ]
+        },
+        {
+          "name": "Jamal al Quso",
+          "role": "Chicago link; detained in Kansas City",
+          "reportIds": [
+            "CIA_10",
+            "FBI_6",
+            "FBI_12"
+          ]
+        },
+        {
+          "name": "Abdul Murad",
+          "role": "Detained at Chicago explosives location",
+          "reportIds": [
+            "FBI_6"
+          ]
+        },
+        {
+          "name": "Khalid Shamrani",
+          "role": "Houston surveillance and militia connection",
+          "reportIds": [
+            "FBI_9",
+            "FBI_25",
+            "FBI_32"
+          ]
+        },
+        {
+          "name": "Walter Smith",
+          "role": "Detained at Kansas City explosives location",
+          "reportIds": [
+            "FBI_12",
+            "FBI_25"
+          ]
+        },
+        {
+          "name": "Billy Jack Hawkins",
+          "role": "Militia participant named by informant",
+          "reportIds": [
+            "FBI_19",
+            "FBI_25"
+          ]
+        },
+        {
+          "name": "Slade Goodman",
+          "role": "Militia participant named by informant",
+          "reportIds": [
+            "FBI_19",
+            "FBI_25"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "start": "2003-09-28",
+          "end": "2003-09-28",
+          "title": "Cermak Road raid; explosives and maps seized",
+          "place": "Chicago",
+          "reportIds": [
+            "FBI_6"
+          ],
+          "kind": "Reported event"
+        },
+        {
+          "start": "2003-12-22",
+          "end": "2003-12-22",
+          "title": "Explosives residence searched; two men detained",
+          "place": "Kansas City",
+          "reportIds": [
+            "FBI_12"
+          ],
+          "kind": "Reported event"
+        },
+        {
+          "start": "2004-08-07",
+          "end": "2004-08-07",
+          "title": "Report describes plans on hold for several months",
+          "place": "Houston and elsewhere",
+          "reportIds": [
+            "FBI_25"
+          ],
+          "kind": "Report of postponement"
+        },
+        {
+          "start": "2004-10-16",
+          "end": "2004-10-16",
+          "title": "Four men reportedly remove storage-unit contents",
+          "place": "Houston",
+          "reportIds": [
+            "FBI_33"
+          ],
+          "kind": "Reported event"
+        }
+      ],
+      "routes": [
+        {
+          "from": "Paris",
+          "to": "Montreal",
+          "label": "Zinedine travel",
+          "CIA": null,
+          "reportIds": [
+            "CIA_7",
+            "FBI_1"
+          ]
+        },
+        {
+          "from": "Montreal",
+          "to": "Buffalo",
+          "label": "Rented car found abandoned",
+          "reportIds": [
+            "FBI_1"
+          ]
+        },
+        {
+          "from": "Chicago",
+          "to": "Kansas City",
+          "label": "Al Quso located",
+          "reportIds": [
+            "FBI_6",
+            "FBI_12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livestock",
+      "number": "04",
+      "title": "Livestock threat claims",
+      "short": "Conflicting letters and disease-source claims",
+      "status": "Unverified claims",
+      "color": "green",
+      "summary": "Two anonymous letters allege a Type A foot-and-mouth disease threat to Texas cattle. Their route stories overlap with monitored smuggling traffic, while a competing website account alleges a different source.",
+      "plan": "Claimed introduction of foot-and-mouth disease affecting cattle near Victoria, Texas. No outbreak or completed attack in Texas is confirmed by these reports.",
+      "when": "Threat letters received December 1 and 3, 2004. A website alleges a December 1 theft and posts it December 6. No confirmed introduction or attack date.",
+      "where": "Claimed target: cattle near Victoria, Texas. Claimed routes pass through Colombia, Cuba, Mexico, and the Texas border. A competing claim names Plum Island.",
+      "uncertainty": "Anonymous attribution to FARC/ELN is not independently established. The website is explicitly unverified. Matching route details support comparison, not proof of a disease shipment or a specific culprit.",
+      "reportIds": [
+        "CIA_4",
+        "CIA_29",
+        "CIA_35",
+        "NSA_12",
+        "NSA_13",
+        "NSA_17",
+        "NSA_19",
+        "NSA_21",
+        "FBI_19",
+        "FBI_37",
+        "FBI_38",
+        "FBI_39"
+      ],
+      "claims": [
+        {
+          "text": "Letters signed “Ramon” and “Juan” claim that Type A FMD is in Texas and threaten cattle around Victoria. They describe different Mexico crossings.",
+          "reportIds": [
+            "FBI_37",
+            "FBI_38"
+          ],
+          "status": "Anonymous claims"
+        },
+        {
+          "text": "CIA_35 reports Type A FMD near Bucaramanga; this is compatible with a possible Colombia source, without tracing the Texas claim to it.",
+          "reportIds": [
+            "CIA_35"
+          ],
+          "status": "Inference"
+        },
+        {
+          "text": "Intercepts describe changes to northbound travel routes and a later instruction to keep the travelers’ stories consistent. They do not identify an FMD cargo.",
+          "reportIds": [
+            "NSA_13",
+            "NSA_17",
+            "NSA_19",
+            "NSA_21"
+          ],
+          "status": "Reported evidence"
+        },
+        {
+          "text": "The website account alleging theft at Plum Island is an alternative explanation requiring verification. It cannot establish the source or existence of a Texas outbreak.",
+          "reportIds": [
+            "FBI_39"
+          ],
+          "status": "Inference"
+        }
+      ],
+      "people": [
+        {
+          "name": "Ramon",
+          "role": "Unverified signature on first threat letter",
+          "reportIds": [
+            "FBI_37"
+          ]
+        },
+        {
+          "name": "Juan",
+          "role": "Unverified signature on second threat letter",
+          "reportIds": [
+            "FBI_38"
+          ]
+        },
+        {
+          "name": "Riyad Said",
+          "role": "Tampico contact; Jose Ramirez alias in monitored routing traffic",
+          "reportIds": [
+            "NSA_19"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "start": "2004-09-20",
+          "end": "2004-09-20",
+          "title": "Report of Type A FMD cases near Bucaramanga",
+          "place": "Colombia",
+          "reportIds": [
+            "CIA_35"
+          ],
+          "kind": "Disease report"
+        },
+        {
+          "start": "2004-12-01",
+          "end": "2004-12-01",
+          "title": "First anonymous letter received",
+          "place": "Houston; claimed target Victoria",
+          "reportIds": [
+            "FBI_37"
+          ],
+          "kind": "Anonymous claim"
+        },
+        {
+          "start": "2004-12-03",
+          "end": "2004-12-03",
+          "title": "Second anonymous letter received",
+          "place": "Dallas; claimed target Victoria",
+          "reportIds": [
+            "FBI_38"
+          ],
+          "kind": "Anonymous claim"
+        },
+        {
+          "start": "2004-12-06",
+          "end": "2004-12-06",
+          "title": "Website publishes alleged December 1 lab theft",
+          "place": "Plum Island",
+          "reportIds": [
+            "FBI_39"
+          ],
+          "kind": "Unverified website claim"
+        }
+      ],
+      "routes": [
+        {
+          "from": "Cartagena",
+          "to": "Guane",
+          "label": "Anonymous letter route",
+          "reportIds": [
+            "FBI_37",
+            "FBI_38"
+          ]
+        },
+        {
+          "from": "Guane",
+          "to": "Ciudad Madero",
+          "label": "Second letter route",
+          "reportIds": [
+            "FBI_38"
+          ]
+        },
+        {
+          "from": "Ciudad Madero",
+          "to": "Ciudad Acuna",
+          "label": "Second letter route",
+          "reportIds": [
+            "FBI_38"
+          ]
+        },
+        {
+          "from": "Ciudad Acuna",
+          "to": "Victoria",
+          "label": "Claimed destination",
+          "reportIds": [
+            "FBI_38"
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    {
+      "canonical": "Abdillah Zinedine",
+      "names": [
+        "Abdillah Zinedine",
+        "Abu Hafs",
+        "Mehdi Rafiki"
+      ],
+      "reportIds": [
+        "CIA_7",
+        "FBI_1"
+      ]
+    },
+    {
+      "canonical": "Saeed Hasham",
+      "names": [
+        "Saeed Hasham",
+        "Hamid Qatada",
+        "Yasir Salman"
+      ],
+      "reportIds": [
+        "CIA_6"
+      ]
+    },
+    {
+      "canonical": "Rifai Qasim",
+      "names": [
+        "Rifai Qasim",
+        "Omar Blakely"
+      ],
+      "reportIds": [
+        "FBI_5",
+        "FBI_23"
+      ]
+    },
+    {
+      "canonical": "Raeed Beandali",
+      "names": [
+        "Raeed Beandali",
+        "Ralph Bean",
+        "Ralph bean"
+      ],
+      "reportIds": [
+        "FBI_22"
+      ]
+    },
+    {
+      "canonical": "Mousa Salah",
+      "names": [
+        "Mousa Salah",
+        "Shadi abu Hoshar"
+      ],
+      "reportIds": [
+        "FBI_8"
+      ]
+    },
+    {
+      "canonical": "Riduan Sungkar",
+      "names": [
+        "Riduan Sungkar",
+        "Omar Evertts"
+      ],
+      "reportIds": [
+        "CIA_13"
+      ]
+    },
+    {
+      "canonical": "Riyad Said",
+      "names": [
+        "Riyad Said",
+        "Jose Ramirez"
+      ],
+      "reportIds": [
+        "NSA_19"
+      ]
+    }
+  ]
+}
